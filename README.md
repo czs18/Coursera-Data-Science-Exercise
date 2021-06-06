@@ -1,2 +1,3 @@
-# Coursera-Data-Science-Exercise
-All my exercises from Coursera Data Science Course
+# testrepo
+## Editing the file
+It is a markdown file to this repository
